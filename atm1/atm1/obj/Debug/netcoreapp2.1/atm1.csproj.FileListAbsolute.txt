@@ -1,0 +1,11 @@
+C:\Users\Deepak\source\repos\atm1\atm1\obj\Debug\netcoreapp2.1\atm1.csprojAssemblyReference.cache
+C:\Users\Deepak\source\repos\atm1\atm1\obj\Debug\netcoreapp2.1\atm1.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\atm1\atm1\obj\Debug\netcoreapp2.1\atm1.AssemblyInfoInputs.cache
+C:\Users\Deepak\source\repos\atm1\atm1\obj\Debug\netcoreapp2.1\atm1.AssemblyInfo.cs
+C:\Users\Deepak\source\repos\atm1\atm1\bin\Debug\netcoreapp2.1\atm1.deps.json
+C:\Users\Deepak\source\repos\atm1\atm1\bin\Debug\netcoreapp2.1\atm1.runtimeconfig.json
+C:\Users\Deepak\source\repos\atm1\atm1\bin\Debug\netcoreapp2.1\atm1.runtimeconfig.dev.json
+C:\Users\Deepak\source\repos\atm1\atm1\bin\Debug\netcoreapp2.1\atm1.dll
+C:\Users\Deepak\source\repos\atm1\atm1\bin\Debug\netcoreapp2.1\atm1.pdb
+C:\Users\Deepak\source\repos\atm1\atm1\obj\Debug\netcoreapp2.1\atm1.dll
+C:\Users\Deepak\source\repos\atm1\atm1\obj\Debug\netcoreapp2.1\atm1.pdb
